@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain-community
+sentence-transformers
+chromadb
+groq
+pandas
+numpy
+requests
+python-dotenv
